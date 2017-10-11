@@ -12,6 +12,10 @@
     "test",
     "geojson"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuleWolf/geojson-test"
+  },
   "author": "Julian Wolf <wolf@bulwiengesa.de>",
   "license": "UNLICENSED",
   "dependencies": {
